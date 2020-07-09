@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi, I'm Snuggle! 👋
 
+### Tech nerd, fueled by bubble tea 🧋🌸, makes computers go beep-boop! 🖖🏼
+
+
+Heya! You've found my GitHub, which is where all of my code and such lives. 👩🏽‍💻
+
+You can find out more about me by [visiting snugg.ie](https://snugg.ie).
 <!--
 **Snuggle/Snuggle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
