@@ -1,9 +1,8 @@
 # Hi, I'm Snuggle! 👋 👩🏽‍💻
 
-<img src="https://snugg.ie/avatar.png" width="200px" alt="Snuggle's Avatar">
+<p align="center"><img src="https://snugg.ie/avatar.png" width="350px" alt="Snuggle's Avatar"></p>
 
 Heya! You've found my GitHub, which is where all of my code and such lives. I'm a tech nerd, fueled by bubble tea, and make computers go beep-boop! 🖖🏼
-
 
 
 ## Where else can I go? 🔗
