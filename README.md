@@ -1,6 +1,6 @@
 # Hi, I'm Snuggle! 👋 👩🏽‍💻
 
-<p align="center"><img src="https://user-images.githubusercontent.com/26250962/107352135-67593a80-6ac3-11eb-97d5-fe7b50c6b3e1.png" width="350px" alt="Snuggle's Avatar"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/26250962/142773709-fac59a96-99a7-4b5f-9141-50d6d7e48991.png" alt="Snuggle's Avatar"></p>
 
 Heya! You've found my GitHub, which is where all of my code and such lives. I'm a tech nerd, fueled by bubble tea, and make computers go beep-boop! 🖖🏼
 
